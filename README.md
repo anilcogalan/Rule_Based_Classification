@@ -1,4 +1,4 @@
-# Rule_Based_Classification
+# Rule Based Classification
 
 
 ![african-american-ceo-giving-presentation-corporate-team-meeting-concept](https://user-images.githubusercontent.com/61653147/220426278-e324b6a3-59a5-4f83-ab79-69539b62727f.jpg)
